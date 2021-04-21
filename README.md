@@ -1,6 +1,6 @@
 # Words App
 
-This folder contains the source code for the Words app codelab.
+Word App is an Android application as part of Android Basics Course
 
 
 # Introduction
